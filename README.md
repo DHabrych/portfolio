@@ -23,5 +23,5 @@ Od kilku miesięcy interesuje się testowaniem oprogramowania i intensywnie się
 ## Zgłoszenia błędów / Przypadki testowe
 
 * [Raporty błędów](https://trello.com/b/vZ5YitGA/bug-reports)
-* [Przypadki testowe]
+* [Przypadki testowe](https://trello.com/b/QXNy04gl/test-cases)
 

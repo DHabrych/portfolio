@@ -41,7 +41,7 @@ I have been interested in software testing for several months and have been stud
 ## Courses
 
 * [Kurs Git dla początkujących](https://www.udemy.com/course/kurs-gita/)
-* ISTQB Foundation Level
+* [ISTQB Foundation Level](https://github.com/DHabrych/portfolio/blob/main/19610_CTFL_2023_EN_Daniel_Habrych.pdf)
 
 ## Books
 
